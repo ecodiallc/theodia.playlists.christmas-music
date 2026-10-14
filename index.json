@@ -13,6 +13,18 @@
       "traditions": ["General"],
       "tags": ["audio", "christmas", "carols", "public-domain", "vintage", "worship"],
       "version": "1.0.0"
+    },
+    {
+      "id": "christmas-carols-from-the-national-jukebox",
+      "type": "playlist",
+      "path": "Christmas-Carols-From-The-National-Jukebox.playlist.zip",
+      "name": "Christmas Carols from the National Jukebox",
+      "description": "Fifteen historic Christmas carols, songs, and instrumental selections from the Library of Congress National Jukebox, recorded between 1911 and 1917. Public-domain remote MP3 audio from Archive.org digitizations of Victor and Edison recordings.",
+      "author": "Library of Congress / Archive.org",
+      "category": "Worship",
+      "traditions": ["General"],
+      "tags": ["audio", "christmas", "carols", "public-domain", "national-jukebox", "library-of-congress", "vintage", "worship"],
+      "version": "1.0.0"
     }
   ]
 }
