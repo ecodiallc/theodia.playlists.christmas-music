@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-14T00:00:00.000Z",
+  "packages": [
+    {
+      "id": "vintage-christmas-carols",
+      "type": "playlist",
+      "path": "Vintage-Christmas-Carols.playlist.zip",
+      "name": "Vintage Christmas Carols",
+      "description": "Historic Christmas carol recordings from 1898 to 1922, performed by choirs, quartets, and orchestras. Public-domain remote MP3 audio from the Internet Archive.",
+      "author": "Internet Archive",
+      "category": "Worship",
+      "traditions": ["General"],
+      "tags": ["audio", "christmas", "carols", "public-domain", "vintage", "worship"],
+      "version": "1.0.0"
+    }
+  ]
+}
