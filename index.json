@@ -37,6 +37,18 @@
       "traditions": ["General"],
       "tags": ["audio", "christmas", "carols", "instrumental", "public-domain", "vintage", "worship"],
       "version": "1.0.0"
+    },
+    {
+      "id": "advent-scripture-and-carols",
+      "type": "playlist",
+      "path": "Advent-Scripture-And-Carols.playlist.zip",
+      "name": "Advent Scripture and Carols",
+      "description": "A journey through the four weeks of Advent, mixing public-domain King James Version scripture readings with public-domain carols. Readings from LibriVox Advent lectionary and KJV Bible; carols from LibriVox Christmas collections and vintage 78 rpm recordings.",
+      "author": "LibriVox / Archive.org",
+      "category": "Seasonal",
+      "traditions": ["General"],
+      "tags": ["audio", "christmas", "advent", "carols", "scripture", "kjv", "public-domain", "librivox", "seasonal"],
+      "version": "1.0.0"
     }
   ]
 }
