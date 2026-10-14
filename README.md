@@ -4,8 +4,10 @@
 | -- | ---- |
 | `vintage-christmas-carols` | Vintage Christmas Carols |
 | `christmas-carols-from-the-national-jukebox` | Christmas Carols from the National Jukebox |
+| `classic-christmas-carols-instrumental` | Classic Christmas Carols Instrumental |
 
 ## Sources
 
 - `vintage-christmas-carols`: Internet Archive — [Voices of Christmas Past — 1898 to 1922](https://archive.org/details/Voices_of_Christmas_Past_1898_to_1922)
 - `christmas-carols-from-the-national-jukebox`: Library of Congress National Jukebox / Archive.org — [National Jukebox Christmas recordings](https://www.loc.gov/collections/national-jukebox/)
+- `classic-christmas-carols-instrumental`: Archive.org — [78rpm Christmas instrumental recordings 1912-1922](https://archive.org/search?query=78rpm+christmas+year%3A%5B1910+TO+1922%5D)

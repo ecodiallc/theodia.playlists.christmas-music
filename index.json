@@ -25,6 +25,18 @@
       "traditions": ["General"],
       "tags": ["audio", "christmas", "carols", "public-domain", "national-jukebox", "library-of-congress", "vintage", "worship"],
       "version": "1.0.0"
+    },
+    {
+      "id": "classic-christmas-carols-instrumental",
+      "type": "playlist",
+      "path": "Classic-Christmas-Carols-Instrumental.playlist.zip",
+      "name": "Classic Christmas Carols Instrumental",
+      "description": "Nineteen instrumental arrangements of Christmas carols and seasonal selections from 1912 to 1922, performed by early 20th-century orchestras, bands, theatre organs, and instrumental ensembles. Public-domain remote MP3 audio from Archive.org.",
+      "author": "Archive.org",
+      "category": "Worship",
+      "traditions": ["General"],
+      "tags": ["audio", "christmas", "carols", "instrumental", "public-domain", "vintage", "worship"],
+      "version": "1.0.0"
     }
   ]
 }
