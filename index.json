@@ -49,6 +49,18 @@
       "traditions": ["General"],
       "tags": ["audio", "christmas", "advent", "carols", "scripture", "kjv", "public-domain", "librivox", "seasonal"],
       "version": "1.0.0"
+    },
+    {
+      "id": "christmas-gospel-songs",
+      "type": "playlist",
+      "path": "Christmas-Gospel-Songs.playlist.zip",
+      "name": "Christmas Gospel Songs",
+      "description": "Public-domain spirituals and carols that tell the Christmas gospel story, including the African-American spiritual \"Rise Up, Shepherd an' Foller.\" Features LibriVox CC0 recordings and early-20th-century 78 rpm recordings from Archive.org.",
+      "author": "LibriVox / Archive.org",
+      "category": "Worship",
+      "traditions": ["General"],
+      "tags": ["audio", "christmas", "gospel", "carols", "spirituals", "public-domain", "librivox", "vintage", "worship"],
+      "version": "1.0.0"
     }
   ]
 }
